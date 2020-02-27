@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Xianan Li
+**USF email address**:  xli68@dons.usfca.edu
